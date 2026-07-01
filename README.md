@@ -1,4 +1,4 @@
-# 📊 Power BI Data Analysis Project
+#  Power BI Data Analysis Project
 
 ##  Project Overview
 
